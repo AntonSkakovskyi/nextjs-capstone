@@ -32,7 +32,9 @@ Stack: Next.js 16 (App Router, Cache Components on), TypeScript strict, Tailwind
 Explain the cause first. Don't fix it unless I ask.
 
 ## When I ask "why"
-Explain how it works internally, not only what to type. Keep it short; I'll ask follow-ups.
+Explain how it works internally, not only what to type.
+For concept questions: answer in 5–8 sentences and point to the relevant doc.
+Deep explanations happen with my mentor.
 
 ## Language
 Reply in simple, clear English (B1–B2). If my message has a significant English
